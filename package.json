@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@0xengine/meow": "^1.2.6",
+    "@0xengine/meow": "^1.2.7",
     "hummus-recipe": "^2.0.1",
     "pdf-lib": "^1.17.1"
   },
