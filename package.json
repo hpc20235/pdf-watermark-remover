@@ -1,0 +1,18 @@
+{
+  "name": "pdf-watermark-remover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@0xengine/meow": "^1.2.5",
+    "hummus-recipe": "^2.0.1",
+    "pdf-lib": "^1.17.1"
+  },
+  "type": "module"
+}
